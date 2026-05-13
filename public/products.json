@@ -1,0 +1,159 @@
+{
+  "@context": "https://schema.org",
+  "generated_at": "2026-05-13T17:07:35.185Z",
+  "base_url": "https://rokusen.zappy5.app",
+  "currency": "ILS",
+  "count": 6,
+  "products": [
+    {
+      "id": "4d309b8d-2957-461c-9412-05fdc847c4ba",
+      "slug": "rvkvhvmyn-eku2be",
+      "name": "רוקוהומין",
+      "name_translations": {},
+      "description": "<p>14-9-14 + mE + BioS</p><p>רוקוהומין הוא דשן נוזלי ממקורות טבעיים ליישום עלוותי, בטפטוף או בהשקיה. הוא מספק לצמח שילוב מתקדם של חומצות אמינו, חומצות הומיות, מאקרו ומיקרו-צורות, ומיועד לתמוך בצמיחה, בחיוניות וביכולת ההתמודדות של הצמח לאורך העונה.</p>",
+      "short_description": "רוקוהומין משלב 4-9-14 + mE + BioS עם חומצות אמינו וחומצות הומיות, זה נותן מענה רחב יותר מהזנה רגילה בלבד — גם תמיכה בצמח וגם תרומה לסביבה הקרקעית.",
+      "sku": null,
+      "brand": "ROKOSAN",
+      "price": 230,
+      "base_price": 230,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://rokusen.zappy5.app/assets/product-1776342441409-k9y5k.webp",
+        "https://rokusen.zappy5.app/assets/product-1776342451661-371n7a.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://rokusen.zappy5.app/product/rvkvhvmyn-eku2be",
+      "categories": [
+        "לבית ולגינה",
+        "לחקלאות"
+      ],
+      "updated_at": "2026-05-10T14:29:53.796Z"
+    },
+    {
+      "id": "3ad66f09-0b34-440f-9835-cde69c4fb68c",
+      "slug": "rvkvmgyk-dbbph0",
+      "name": "רוקומג'יק",
+      "name_translations": {},
+      "description": "<p>רוקומגיק הוא דשן נוזלי ממקורות טבעיים המיועד לשימוש בגינות נוי</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": "ROKOSAN",
+      "price": 95,
+      "base_price": 95,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://rokusen.zappy5.app/assets/product-1776418397626-vwj51.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://rokusen.zappy5.app/product/rvkvmgyk-dbbph0",
+      "categories": [
+        "לבית ולגינה"
+      ],
+      "updated_at": "2026-05-12T10:55:10.203Z"
+    },
+    {
+      "id": "cc65c60f-ac1c-4b94-969d-3e3cac9fd928",
+      "slug": "bvnsay-0bgl8r",
+      "name": "בונסאי",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 95,
+      "base_price": 95,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://rokusen.zappy5.app/assets/product-1778241053471-tj6hx.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://rokusen.zappy5.app/product/bvnsay-0bgl8r",
+      "categories": [
+        "לבית ולגינה"
+      ],
+      "updated_at": "2026-05-12T10:55:40.771Z"
+    },
+    {
+      "id": "cd00351b-9b54-4437-97fa-c96073326b85",
+      "slug": "bvnsay-prymyvm-xzddd7",
+      "name": "בונסאי פרימיום",
+      "name_translations": {},
+      "description": "",
+      "short_description": "דשן מותאם לעצי בונסאי",
+      "sku": null,
+      "brand": null,
+      "price": 230,
+      "base_price": 230,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://rokusen.zappy5.app/assets/product-1778240895309-gjuozn.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://rokusen.zappy5.app/product/bvnsay-prymyvm-xzddd7",
+      "categories": [
+        "לבית ולגינה"
+      ],
+      "updated_at": "2026-05-08T11:55:30.082Z"
+    },
+    {
+      "id": "996a027f-f666-41ee-bfcf-47612a2751e1",
+      "slug": "rvkvaktyb-52lgm9",
+      "name": "רוקואקטיב",
+      "name_translations": {},
+      "description": "<p>5-9-23 + mE + BioS רוקואקטיב הוא דשן נוזלי ממקורות טבעיים המיועד לשלב ההתחלתי של הגידול. הוא פועל כתומך נביטה, השרשה והתבססות ראשונית, ומעניק לצמח פתיחה איכותית יותר כבר בתחילת הדרך.</p>",
+      "short_description": "\nמה מייחד את רוקואקטיב ?\nרוקואקטיב משלב NPK + ME + BS עם 18 חומצות אמינו וחומצות הומיות, כדי לתת לזרע ולצמח הצעיר בסיס חזק יותר להתפתחות מהיום הראשון.",
+      "sku": null,
+      "brand": "ROKOSAN",
+      "price": 230,
+      "base_price": 230,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://rokusen.zappy5.app/assets/product-1776343034933-ycjlcs.webp",
+        "https://rokusen.zappy5.app/assets/product-1776343042870-4rn6ol.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://rokusen.zappy5.app/product/rvkvaktyb-52lgm9",
+      "categories": [
+        "לחקלאות",
+        "לבית ולגינה"
+      ],
+      "updated_at": "2026-05-08T11:55:30.082Z"
+    },
+    {
+      "id": "c76e44c9-1a8d-4f5d-879d-31d157a9e032",
+      "slug": "rvkvln-paxkl9",
+      "name": "רוקולן ",
+      "name_translations": {},
+      "description": "<p>4-13-9 + mE + BioS</p><p>רוקולן הוא דשן נוזלי ממקורות טבעיים, שפותח להכנת הקרקע לפני זריעה או שתילה. הוא תומך בפעילות הקרקע, מסייע לפיתוח שורשים חזק ובריא, ויוצר תנאי פתיחה מדויקים יותר לצמח כבר מהשלב הראשון.</p><p>יתרונות בולטים:</p><p>• מסייע בהפעלת המיקרופלורה בקרקע</p><p>• תומך בהתפתחות שורשים ובהתחלה חזקה יותר</p><p>• מסייע לשחרור והנגשה טובה יותר של יסודות הזנה בקרקע</p>",
+      "short_description": "4-13-9 + mE + BoiS יחד עם 18 חומצות אמינו, ליצירת קרקע פעילה יותר ותנאים טובים יותר להתבססות הצמח.",
+      "sku": null,
+      "brand": "רוקוסן",
+      "price": 230,
+      "base_price": 230,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://rokusen.zappy5.app/assets/product-1776341693866-3ngdg.webp",
+        "https://rokusen.zappy5.app/assets/product-1776342172181-qi5xij.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://rokusen.zappy5.app/product/rvkvln-paxkl9",
+      "categories": [
+        "לבית ולגינה",
+        "לחקלאות"
+      ],
+      "updated_at": "2026-05-10T17:17:04.523Z"
+    }
+  ]
+}

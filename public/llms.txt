@@ -1,0 +1,169 @@
+# רוקוסן — Generative Engine Optimization Map
+
+> A sales-focused business specializing in natural-source fertilizers that combine NPK (Nitrogen, Phosphorus, Potassium), micro-elements (mE), and biological stimulants (BioS). The product bridges organic agriculture with advanced soil science, appealing to farmers and growers who seek eco-friendly, high-performance plant nutrition solutions. The brand likely emphasizes sustainability, natural origins, and scientific credibility.
+
+---
+
+## Pages
+
+### רוקוסן | דשן טבעי NPK + מיקרו-אלמנטים + ביוסטימולנטים
+https://rokusen.zappy5.app
+רוקוסן מציעה פתרונות דישון טבעיים מתקדמים לחקלאות מודרנית. פורמולת NPK + mE + BioS לגידול בריא, יבול גבוה ואדמה חיה. מאושר אורגנית ע"י האיחוד האירופי.
+
+### Page
+https://rokusen.zappy5.app/menu-group-1777982832170
+
+### רוקולן
+https://rokusen.zappy5.app/rokolan
+
+### רוקוהומין
+https://rokusen.zappy5.app/rokohumin
+
+### רוקואקטיב
+https://rokusen.zappy5.app/rokoactiv
+
+### שירותים | רוקוסן - ייעוץ חקלאי ופתרונות דישון מקצועיים
+https://rokusen.zappy5.app/services
+רוקוסן מציעה שירותי ייעוץ חקלאי מקצועי, תכנון תזונת צמחים, ריסוס ודישון באמצעות רחפנים, וליווי אגרונומי לאורך כל עונת הגידול.
+
+### אודות רוקוסן | חברת תשומות חקלאיות מובילה בישראל
+https://rokusen.zappy5.app/about
+רוקוסן היא חברה מובילה בתשומות חקלאיות בישראל. אנו מפתחים ומשווקים דשנים טבעיים מאושרים לחקלאות אורגנית ומסורתית, עם ניסיון רב ומחויבות לאיכות.
+
+### מוצרים
+https://rokusen.zappy5.app/products
+המוצרים שלנו - רוקוסן
+
+### עגלת קניות
+https://rokusen.zappy5.app/cart
+עגלת הקניות שלך
+
+### תשלום
+https://rokusen.zappy5.app/checkout
+תשלום
+
+### התחברות
+https://rokusen.zappy5.app/login
+התחברות לקוחות
+
+### החשבון שלי
+https://rokusen.zappy5.app/account
+החשבון שלי
+
+### ההזמנה התקבלה!
+https://rokusen.zappy5.app/order-success
+תודה על ההזמנה
+
+### פרטי המוצר
+https://rokusen.zappy5.app/product/:slug
+פרטי המוצר - רוקוסן
+
+### מוצרים
+https://rokusen.zappy5.app/category/:slug
+מוצרים - רוקוסן
+
+### צור קשר | רוקוסן - ייעוץ חקלאי חינם
+https://rokusen.zappy5.app/contact
+צרו קשר עם צוות המומחים של רוקוסן לקבלת ייעוץ חקלאי מקצועי וחינמי. נשמח לעזור בבחירת הדשן המתאים לגידול שלכם. טלפון: 054-6499087
+
+## Legal & Policy
+
+### Privacy Policy
+https://rokusen.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://rokusen.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://rokusen.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+**Total active products: 6**
+
+### רוקוהומין
+https://rokusen.zappy5.app/product/rvkvhvmyn-eku2be
+- Price: 230.00 ILS
+- Availability: In stock
+- Category: לבית ולגינה
+- Brand: ROKOSAN
+- Description: רוקוהומין משלב 4-9-14 + mE + BioS עם חומצות אמינו וחומצות הומיות, זה נותן מענה רחב יותר מהזנה רגילה בלבד — גם תמיכה בצמח וגם תרומה לסביבה הקרקעית.
+- Image: https://rokusen.zappy5.app/assets/product-1776342441409-k9y5k.webp
+
+### רוקומג'יק
+https://rokusen.zappy5.app/product/rvkvmgyk-dbbph0
+- Price: 95.00 ILS
+- Availability: In stock
+- Category: לבית ולגינה
+- Brand: ROKOSAN
+- Description: רוקומגיק הוא דשן נוזלי ממקורות טבעיים המיועד לשימוש בגינות נוי
+- Image: https://rokusen.zappy5.app/assets/product-1776418397626-vwj51.webp
+
+### בונסאי
+https://rokusen.zappy5.app/product/bvnsay-0bgl8r
+- Price: 95.00 ILS
+- Availability: In stock
+- Category: לבית ולגינה
+- Image: https://rokusen.zappy5.app/assets/product-1778241053471-tj6hx.webp
+
+### בונסאי פרימיום
+https://rokusen.zappy5.app/product/bvnsay-prymyvm-xzddd7
+- Price: 230.00 ILS
+- Availability: In stock
+- Category: לבית ולגינה
+- Description: דשן מותאם לעצי בונסאי
+- Image: https://rokusen.zappy5.app/assets/product-1778240895309-gjuozn.webp
+
+### רוקואקטיב
+https://rokusen.zappy5.app/product/rvkvaktyb-52lgm9
+- Price: 230.00 ILS
+- Availability: In stock
+- Category: לחקלאות
+- Brand: ROKOSAN
+- Description: מה מייחד את רוקואקטיב ? רוקואקטיב משלב NPK + ME + BS עם 18 חומצות אמינו וחומצות הומיות, כדי לתת לזרע ולצמח הצעיר בסיס חזק יותר להתפתחות מהיום הראשון.
+- Image: https://rokusen.zappy5.app/assets/product-1776343034933-ycjlcs.webp
+
+### רוקולן 
+https://rokusen.zappy5.app/product/rvkvln-paxkl9
+- Price: 230.00 ILS
+- Availability: In stock
+- Category: לבית ולגינה
+- Brand: רוקוסן
+- Description: 4-13-9 + mE + BoiS יחד עם 18 חומצות אמינו, ליצירת קרקע פעילה יותר ותנאים טובים יותר להתבססות הצמח.
+- Image: https://rokusen.zappy5.app/assets/product-1776341693866-3ngdg.webp
+
+---
+
+# Business Context (for LLM understanding)
+
+## About רוקוסן
+A sales-focused business specializing in natural-source fertilizers that combine NPK (Nitrogen, Phosphorus, Potassium), micro-elements (mE), and biological stimulants (BioS). The product bridges organic agriculture with advanced soil science, appealing to farmers and growers who seek eco-friendly, high-performance plant nutrition solutions. The brand likely emphasizes sustainability, natural origins, and scientific credibility.
+
+## Services/Products
+- דשן ממקורות טבעיים
+- NPK
+- מיקרו-אלמנטים (mE)
+- חיידקים ביולוגיים (BioS)
+
+## Target Audience
+- חקלאים אורגניים
+- מנהלי משתלות
+- מגדלי פירות מסחריים
+
+## Industry
+חקלאות / תשומות חקלאיות
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://rokusen.zappy5.app/sitemap.xml
+- Robots: https://rokusen.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://rokusen.zappy5.app/llms-full.txt
+- Products (JSON): https://rokusen.zappy5.app/products.json
+- Products (Google Merchant RSS): https://rokusen.zappy5.app/product-feed.xml
